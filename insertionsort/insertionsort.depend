@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520379547 source:c:\users\alexandre\desktop\insertionsort\main.c
+	<stdio.h>
+	<math.h>
+
