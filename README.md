@@ -2,5 +2,5 @@
 
 -Instruções
  -Em sistemas Unix:
-   Aparti do terminal, aplicar gcc main.c -o main.
+   Aplicar o comando "gcc main.c -o main" no terminal.
    
